@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;InstanceInitializer_java&apos;&#x0D;&#x0A;- Original project: &apos;InstanceInitializer_java&apos;&#x0D;&#x0A;- Original element: &apos;InstanceInitializer_java/src/com.Fmaily_Instance_Initializer.java&apos;" description="Delete element" element1="/src&lt;com.Fmaily_Instance_Initializer.java" element2="/src&lt;com.Fmaily_Instance_Initializer" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1671966664373" subPackages="false" version="1.0"/>
+</session>

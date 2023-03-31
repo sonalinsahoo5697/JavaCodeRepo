@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nested_dowhile.java.Do_While&apos; to &apos;Nested_DoWhile&apos;&#x0D;&#x0A;- Original project: &apos;Loops_java&apos;&#x0D;&#x0A;- Original element: &apos;com.nested_dowhile.java.Do_While&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nested_dowhile.java.Nested_DoWhile&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Do_While&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.nested_dowhile.java{Do_While.java[Do_While" matchStrategy="1" name="Nested_DoWhile" qualified="false" references="true" similarDeclarations="false" stamp="1670413463902" textual="false" version="1.0"/>
+</session>

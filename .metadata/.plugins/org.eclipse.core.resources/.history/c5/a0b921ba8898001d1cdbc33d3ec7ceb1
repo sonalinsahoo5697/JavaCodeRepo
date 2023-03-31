@@ -1,0 +1,10 @@
+package com.substraction.java;
+
+public class Substraction {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

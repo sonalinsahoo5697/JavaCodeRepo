@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ConditionalOperator_java&apos;&#x0D;&#x0A;- Original project: &apos;ConditionalOperator_java&apos;&#x0D;&#x0A;- Original element: &apos;ConditionalOperator_java/src/com.ternary_operator.java&apos;" description="Delete element" element1="/src&lt;com.ternary_operator.java" element2="/src&lt;com.ternary_operator" element3="/src&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1669703785909" subPackages="false" version="1.0"/>
+</session>

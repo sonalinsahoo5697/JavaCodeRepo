@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-color:#c6ecd7;
+	-fx-padding:20px;
+	-fx-alignment:"top-center"; 
+	-fx-background-radius: 80; 
+}
+.label{  
+    -fx-font-size:18pt;  
+    -fx-font:bold 15pt"Serif";  
+    -fx-padding:10;  
+    
+}  
+.button{
+	-fx-padding:8px;
+	-fx-border-radius:25;
+	-fx-alignment:baseline-center; 
+	-fx-background-color:"bisque";
+}
+
+.root1{
+	-fx-background-color:"Pink";
+	-fx-padding:20px;
+	-fx-alignment:"center"; 
+	-fx-background-radius: 80; 
+}

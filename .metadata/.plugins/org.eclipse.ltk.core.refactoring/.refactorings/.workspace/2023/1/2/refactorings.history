@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Animal&apos; to &apos;Static_Nested_Class&apos;&#x0D;&#x0A;- Original element: &apos;Animal&apos;&#x0D;&#x0A;- Renamed element: &apos;Animal&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Animal&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Animal" name="Static_Nested_Class" references="true" stamp="1673265532353" version="1.0"/>
+</session>

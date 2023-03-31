@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Methodoverriding_java/src/com/CollageCovariantReturnType/java/Price_of_Clg.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.CollageCovariantReturnType.java.Price_of_Clg"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Methodoverriding_java"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Methodoverriding_java"/>
+</launchConfiguration>

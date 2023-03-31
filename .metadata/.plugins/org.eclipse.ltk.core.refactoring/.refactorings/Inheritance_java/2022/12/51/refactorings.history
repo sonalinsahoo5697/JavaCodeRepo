@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.single_inheritance.java.Single_Inheritance&apos; to &apos;School&apos;&#x0D;&#x0A;- Original project: &apos;Inheritance_java&apos;&#x0D;&#x0A;- Original element: &apos;com.single_inheritance.java.Single_Inheritance&apos;&#x0D;&#x0A;- Renamed element: &apos;com.single_inheritance.java.School&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Single_Inheritance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.single_inheritance.java{Single_Inheritance.java[Single_Inheritance" matchStrategy="1" name="School" qualified="false" references="true" similarDeclarations="false" stamp="1671032090908" textual="false" version="1.0"/>
+</session>

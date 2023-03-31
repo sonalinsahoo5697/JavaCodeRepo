@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Operators_java&apos; to &apos;ArithmaticOperators_java&apos;&#x0D;&#x0A;- Original element: &apos;Operators_java&apos;&#x0D;&#x0A;- Renamed element: &apos;Operators_java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Operators_java&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Operators_java" name="ArithmaticOperators_java" references="true" stamp="1669703619402" version="1.0"/>
+</session>
